@@ -1,0 +1,25 @@
+_repo: Jaakarit-ja-aktivistit-b-Sotavuosien-muistelmia-Tukholmasta-ja-Berliinista_74547
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gummerus, Herman
+    gutenberg_agent_id: '57541'
+    url: http://www.gutenberg.org/2009/agents/57541
+description: ''
+gutenberg_issued: '2024-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74547'
+language: fi
+pgterms:marc905: 20240617071912gummerus
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jääkärit ja aktivistit : $b Sotavuosien muistelmia Tukholmasta ja Berliinistä'
+url: http://www.gutenberg.org/ebooks/74547
